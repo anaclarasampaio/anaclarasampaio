@@ -1,5 +1,5 @@
 ### Olá! Me chamo Ana Clara Sampaio ✌
--💻Sou estudante de Sistemas de Informação, no momento, com bastante interesse em atuar na área de Front-End <br/>
+-💻Sou estudante de Sistemas de Informação, no momento, com bastante interesse em atuar com desenvolvimento Fullstack <br/>
 -😄Pronouns: ela/dela
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://malito:anaclara13samapaio@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anaclarasampaiio_) 
