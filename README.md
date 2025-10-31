@@ -16,6 +16,7 @@
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 <img align="center" alt="postresql" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)">
 <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)">
+<img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
 </div> <br/>
 
 
