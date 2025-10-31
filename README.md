@@ -5,12 +5,15 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://malito:anaclara13samapaio@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anaclarasampaiio_) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-clara-sampaio-696b7b25a/)
 
-<h3 align="left">Languages and Tools</h3>
-<h3 align="left"> 🛠 Languages and Tools</h3>
-<p align="left"> 
-<a href="https://www.erlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/erlang/erlang-original-wordmark.svg" alt="erlang" "width="40" height="40"/></a>
-<a href="https://www.elixir-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="elixir" "width="40" height="40"/></a>
-@@ -43,28 +43,28 @@
+## **GitHub Statistics**
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmdcarneiro&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelmdcarneiro&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaclarasampaio&show_icons=true&theme=dracula)
 
