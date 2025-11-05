@@ -23,7 +23,6 @@
 <img align="center" alt="css3" src="https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white"> 
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> 
-<img align="center" alt="postresql" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)">
 <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)">
 <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
 <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
