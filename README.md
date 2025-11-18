@@ -30,6 +30,7 @@
 <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
 <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white">
 <img align="center" alt="react" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
+<img align="center" alt="docker" src="[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)>
 
 </div> <br/>
 
