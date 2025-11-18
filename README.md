@@ -27,10 +27,10 @@
 <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)">
 <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
 <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
-<img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
+<img align="center" alt="django" src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)">
 <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white">
 <img align="center" alt="react" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
-<img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)>
+<img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)">
 
 </div> <br/>
 
