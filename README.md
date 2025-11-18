@@ -2,6 +2,8 @@
 -💻Sou estudante de Sistemas de Informação, no momento, com bastante interesse em atuar com desenvolvimento Fullstack <br/>
 -😄Pronomes: ela/dela-->
 
+## Contato
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://malito:ana.csampaio@outlook.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anaclarasampaiio_) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-clara-sampaio-696b7b25a/)
 
@@ -14,7 +16,6 @@
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anaclarasampaio&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
-
 
 ### Tecnologias que estou estudando 
 
