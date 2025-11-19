@@ -30,8 +30,14 @@ Trabalho na criação de interfaces funcionais e responsivas, correção de bugs
 Também colaboro em automações de processos internos, sempre priorizando segurança, organização e eficiência nas rotinas da empresa.
 
 **Tecnologias utilizadas:**  
-TypeScript • Node.js • JavaScript • HTML • CSS • Git/GitHub • PostgreSQL • Docker
+<div style="display: inline-block"><br/>
+  
+<img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+<img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
+<img align="center" alt="postgres" src="https://img.shields.io/badge/Postgres-316192?style=flat&logo=postgresql&logoColor=white">
+<img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff">
 
+</div>
 
 ## Tecnologias que estou estudando 
 
