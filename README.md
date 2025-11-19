@@ -41,8 +41,6 @@ Também colaboro em automações de processos internos, sempre priorizando segur
 
 ## Tecnologias que estou estudando 
 
-### Tecnologias que estou estudando  
-
 <div style="display: inline-block"><br/>
 
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
