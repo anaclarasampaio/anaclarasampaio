@@ -36,6 +36,7 @@ Também colaboro em automações de processos internos, sempre priorizando segur
 <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
 <img align="center" alt="postgres" src="https://img.shields.io/badge/Postgres-316192?style=flat&logo=postgresql&logoColor=white">
 <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff">
+<img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
 
 </div>
 
