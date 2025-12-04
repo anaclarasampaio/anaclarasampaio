@@ -10,8 +10,6 @@
 
 ## **Estatísticas GitHub**
 
-<a> stats.vercel.app/api?username=JoseJacsan&theme=dracula&show_icons=true </a>
-
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anaclarasampaio&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
