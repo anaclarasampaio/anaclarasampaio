@@ -8,11 +8,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anaclarasampaiio_)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ana-clara-sampaio-696b7b25a/)
 
-## **Estatísticas GitHub**
+<!--## **Estatísticas GitHub**
 
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anaclarasampaio&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
+</a>-->
 
 
 ## 💼 Experiência
