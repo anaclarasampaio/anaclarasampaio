@@ -20,28 +20,6 @@
 </a>-->
 
 
-## 💼 Experiência
-
-### Estagiária em Desenvolvimento Fullstack  
-📍 Rio de Janeiro — nov/2025 • atual
-
-Atuo no desenvolvimento e manutenção de sistemas internos, contribuindo tanto no front-end quanto no back-end.  
-Trabalho na criação de interfaces funcionais e responsivas, correção de bugs, otimizações de desempenho e melhorias na experiência do usuário.
-
-Também colaboro em automações de processos internos, sempre priorizando segurança, organização e eficiência nas rotinas da empresa.
-
-**Tecnologias utilizadas:**  
-<div style="display: inline-block"><br/>
-  
-<img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
-<img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
-<img align="center" alt="postgres" src="https://img.shields.io/badge/Postgres-316192?style=flat&logo=postgresql&logoColor=white">
-<img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff">
-<img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
-<img align="center" alt="react" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000">
-
-</div>
-
 ## Tecnologias que estou estudando 
 
 <div style="display: inline-block"><br/>
