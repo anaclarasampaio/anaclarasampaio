@@ -10,19 +10,19 @@
 
 ## **Estatísticas GitHub**
 
-(https://github-readme-mwendwa.vercel.app/api?username=anaclarasampaio&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+<img src="https://github-terminal-readme.nexflare.com.br/api/stats/anaclarasampaio?theme=dracula"/> 
  
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=anaclarasampaio&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-<!-- <img src="https://github-terminal-readme.nexflare.com.br/api/stats/anaclarasampaio?theme=dracula"/> 
+<!-- <img src="https://github-terminal-readme.nexflare.com.br/api/stats/anaclarasampaio?theme=dracula"/> -->
 
-<!--<a href="https://github.com/Gurupreet">
+<a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclarasampaio&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anaclarasampaio&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>-->
+
 
 
 ## Tecnologias que estou estudando 
