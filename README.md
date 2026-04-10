@@ -9,7 +9,12 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ana-clara-sampaio-696b7b25a/)
 
 ## **Estatísticas GitHub**
-<img src="https://github-terminal-readme.nexflare.com.br/api/stats/anaclarasampaio?theme=dracula"/>
+
+(https://github-readme-mwendwa.vercel.app/api?username=anaclarasampaio&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ 
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=anaclarasampaio&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+<!-- <img src="https://github-terminal-readme.nexflare.com.br/api/stats/anaclarasampaio?theme=dracula"/> 
 
 <!--<a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclarasampaio&theme=dracula&hide_langs_below=1" />
