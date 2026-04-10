@@ -10,9 +10,19 @@
 
 ## **Estatísticas GitHub**
 
+[![Ana Clara's github stats](https://github-readme-mwendwa.vercel.app/api?username=anaclarasampaio&show_icons=true&count_private=true&line_height=20&icon_color=bd93f9&theme=dracula&title_color=ff79c6)](#)
 
-(https://github-readme-mwendwa.vercel.app/api?username=anaclarasampaio&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#) 
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=anaclarasampaio&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=anaclarasampaio&layout=compact&count_private=true&theme=dracula&title_color=ff79c6)](#)
+
+[![Ana Clara's current streak](https://streak-stats.demolab.com/?user=anaclarasampaio&count_private=true&theme=dracula&title_color=ff79c6)](#)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 <!-- <img src="https://github-terminal-readme.nexflare.com.br/api/stats/anaclarasampaio?theme=dracula"/> 
 
