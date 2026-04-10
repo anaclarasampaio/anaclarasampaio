@@ -16,14 +16,6 @@
 
 [![Ana Clara's current streak](https://streak-stats.demolab.com/?user=anaclarasampaio&count_private=true&theme=dracula&title_color=ff79c6)](#)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
 <!-- <img src="https://github-terminal-readme.nexflare.com.br/api/stats/anaclarasampaio?theme=dracula"/> 
 
 <a href="https://github.com/Gurupreet">
