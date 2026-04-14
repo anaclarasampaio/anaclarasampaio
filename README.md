@@ -14,9 +14,9 @@
 
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=anaclarasampaio&layout=compact&count_private=true&theme=dracula&title_color=ff79c6)](#)
 
-[![Ana Clara's current streak](https://streak-stats.demolab.com/?user=anaclarasampaio&count_private=true&theme=dracula&title_color=ff79c6)](#)
+<!--[![Ana Clara's current streak](https://streak-stats.demolab.com/?user=anaclarasampaio&count_private=true&theme=dracula&title_color=ff79c6)](#)
 
-<!-- <img src="https://github-terminal-readme.nexflare.com.br/api/stats/anaclarasampaio?theme=dracula"/> 
+ <img src="https://github-terminal-readme.nexflare.com.br/api/stats/anaclarasampaio?theme=dracula"/> 
 
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclarasampaio&theme=dracula&hide_langs_below=1" />
