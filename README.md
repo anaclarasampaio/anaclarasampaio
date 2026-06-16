@@ -27,7 +27,7 @@
 
 
 
-## Tecnologias que estou estudando 
+## Tecnologias 
 
 <div style="display: inline-block"><br/>
 
